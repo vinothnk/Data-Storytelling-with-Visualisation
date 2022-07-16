@@ -11,7 +11,7 @@ We assumed that WHO stakeholders asked us to do a visualisation for Covid cases 
 
 ** To showcase the widespread of Covid throughout the world from January 2020 till August 2021.
 
-![image](https://user-images.githubusercontent.com/108440564/179342818-db3cbb6d-261d-43e7-aef2-a5ead4703c9b.png)
+![image](https://user-images.githubusercontent.com/108440564/179343706-832b9f99-e665-46a0-b243-c8b551a5c9c6.png)
 
 
 
